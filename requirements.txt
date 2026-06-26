@@ -1,0 +1,8 @@
+# 仅用于运行「数据图表」功能生成的 Python (seaborn) 绘图代码。
+# Web 应用本身基于 Node，依赖在 package.json，用 `npm install` 安装，不需要 Python。
+# 安装：pip install -r requirements.txt
+seaborn>=0.13
+matplotlib>=3.8
+pandas>=2.0
+numpy>=1.24
+# R 用户改用 ggplot2：在 R 里执行 install.packages("tidyverse")

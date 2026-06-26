@@ -1,0 +1,17 @@
+.next
+node_modules
+dist
+coverage
+.env
+.env.local
+data
+uploads
+generated
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+.vscode/
+.idea/
+*.swp
+next-env.d.ts
